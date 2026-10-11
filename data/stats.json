@@ -1,0 +1,121 @@
+{
+  "total_permits_2020": 31097,
+  "cancelled": 195,
+  "active_permits": 30902,
+  "by_class": {
+    "alteration": 13339,
+    "new_building": 11559,
+    "addition": 2645,
+    "phased": 2060,
+    "non_building": 575,
+    "admin": 514,
+    "site_prep": 162,
+    "change_of_use": 44,
+    "other": 4
+  },
+  "adu_permits": 221,
+  "adu_new_building": 188,
+  "new_construction_monthly_avg_2020_2021": 205.1,
+  "new_construction_monthly_avg_2022": 199.7,
+  "new_construction_monthly_avg_2023": 188.2,
+  "new_construction_monthly_avg_2024": 133.8,
+  "new_construction_monthly_avg_2025": 134.1,
+  "new_construction_monthly_avg_2026_ytd": 99.0,
+  "permits_matched_zoning": 30765,
+  "new_building_total": 11559,
+  "new_building_in_su_zoning": 4215,
+  "new_building_in_growth_area": 2940,
+  "new_building_near_transit": 2215,
+  "all_permits_near_transit": 4162,
+  "new_building_by_growth_type": {
+    "Community centers and corridors": 1429,
+    "Greenfield residential areas": 1171,
+    "Regional centers": 183,
+    "Districts": 156,
+    "High and high-med residential areas in D and UC contexts": 1
+  },
+  "new_building_zoning_split": {
+    "single_unit_only": 4215,
+    "other": 7344
+  },
+  "top5_neighborhoods_new_buildings": [
+    {
+      "neighborhood": "Central Park",
+      "new_buildings": 1075,
+      "total_permits": 2228
+    },
+    {
+      "neighborhood": "Gateway - Green Valley Ranch",
+      "new_buildings": 847,
+      "total_permits": 1193
+    },
+    {
+      "neighborhood": "West Colfax",
+      "new_buildings": 784,
+      "total_permits": 1120
+    },
+    {
+      "neighborhood": "DIA",
+      "new_buildings": 738,
+      "total_permits": 882
+    },
+    {
+      "neighborhood": "Berkeley",
+      "new_buildings": 543,
+      "total_permits": 1088
+    }
+  ],
+  "bottom10_neighborhoods_new_buildings": [
+    {
+      "neighborhood": "Capitol Hill",
+      "new_buildings": 10,
+      "total_permits": 77
+    },
+    {
+      "neighborhood": "Goldsmith",
+      "new_buildings": 9,
+      "total_permits": 88
+    },
+    {
+      "neighborhood": "Montbello",
+      "new_buildings": 8,
+      "total_permits": 136
+    },
+    {
+      "neighborhood": "Fort Logan",
+      "new_buildings": 6,
+      "total_permits": 197
+    },
+    {
+      "neighborhood": "North Capitol Hill",
+      "new_buildings": 4,
+      "total_permits": 8
+    },
+    {
+      "neighborhood": "Southmoor Park",
+      "new_buildings": 2,
+      "total_permits": 124
+    },
+    {
+      "neighborhood": "CBD",
+      "new_buildings": 0,
+      "total_permits": 1
+    },
+    {
+      "neighborhood": "Civic Center",
+      "new_buildings": 0,
+      "total_permits": 2
+    },
+    {
+      "neighborhood": "Indian Creek",
+      "new_buildings": 0,
+      "total_permits": 63
+    },
+    {
+      "neighborhood": "Union Station",
+      "new_buildings": 0,
+      "total_permits": 2
+    }
+  ],
+  "neighborhoods_zero_new_buildings": 4
+}
