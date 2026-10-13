@@ -33,3 +33,11 @@ All public:
 4. Charts land in `output/charts/`; enriched layers in `output/`
 
 Requires Python 3 with geopandas, shapely, matplotlib.
+
+## Methods and data
+
+The public layers listed under Data sources are downloaded with [code/download.py](code/download.py) and analyzed with [code/analyze.py](code/analyze.py). Aggregate outputs are in [data/stats.json](data/stats.json) and the CSV and GeoJSON files in [data/](data/). The [full brief](brief/denver-housing-permits-brief.md) contains the methods and caveats.
+
+## Part of Machine Readable
+
+This brief is part of [Machine Readable](https://github.com/adowlen/machine-readable), the catalog of all Machine Readable briefs.
